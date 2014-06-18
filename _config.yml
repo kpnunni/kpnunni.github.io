@@ -1,0 +1,13 @@
+title:        kpnunni
+tagline:      'Code, Eat, Play'
+description:  'Code, Eat, Play'
+twitter:	  'kpnunni'
+github:		  'kpnunni'
+url:          http://kpnunni.github.io
+author:
+  name:       'Krishnanunni P N'
+  email:      'kpnunni@gmail.com'
+markdown:     rdiscount
+permalink:    pretty
+pygments:     false
+paginate:     5
